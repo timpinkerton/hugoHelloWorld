@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
 
-    author = "Nate Day"
+    author = "ME"
     description = "hell ohh world !!"
     logo = "favicon/android-chrome-192x192.png"
     twitterAuthor = "@natedayta"
